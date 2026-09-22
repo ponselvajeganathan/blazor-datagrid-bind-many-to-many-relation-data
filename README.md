@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to display and edit many-to-many relational data in the Syncfusion Blazor DataGrid. Since the DataGrid does not provide built-in support for directly binding many-to-many relationship properties, the implementation uses `ColumnTemplate` and `EditTemplate` to render related values and provide editing capabilities within the grid. The sample also demonstrates CRUD operations while managing relationship data, making it a useful reference for applications that need to present and maintain complex relational datasets in a DataGrid interface.
+This sample demonstrates how to display and edit many-to-many relational data in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). Since the DataGrid does not provide built-in support for directly binding many-to-many relationship properties, the implementation uses `ColumnTemplate` and `EditTemplate` to render related values and provide editing capabilities within the grid. The sample also demonstrates CRUD operations while managing relationship data, making it a useful reference for applications that need to present and maintain complex relational datasets in a DataGrid interface.
 
 ## Key Features
 
